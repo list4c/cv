@@ -16,11 +16,12 @@ Highly motivated QA professional with a zest for learning and AI-driven developm
 ## Experience
 
 ### Quality Assurance Engineer | STX Next | Mar 2022 - Present
-- creating AI-driven test architecture
 - manual and automated testing across the database, API, and frontend (web and mobile)
-- worked as line manager in QA department and test lead in current project
-### Test and Analysis Engineer | Sii Poland (Roche vendor) | Jun 2018 - Feb 2022
-- test planning and execution in SPECA application
+- leadership experience as line manager in QA department and test lead in current project
+- transformed legacy Cypress UI testing suite to API-first Playwright repo
+- spearheaded AI innovations in the project (access to tools, workshops)  
+### Test and Analysis Engineer | Sii Poland | Jun 2018 - Feb 2022
+- test planning and manual testing in a pharmaceutical web app
 ### Language services provider | TRANSLAVOX | May 2015 - May 2018
 - translation projects, proofreading
 - consecutive and simultaneous interpreting
